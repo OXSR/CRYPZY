@@ -1,4 +1,4 @@
-# Crypzy: Cifrado Post-Cuántico Seguro  
+# Crypzy 
 
 Crypzy es una herramienta de cifrado avanzada diseñada para proporcionar **seguridad extrema** frente a ataques clásicos y cuánticos. Utiliza **AES-256 en modo CBC**, junto con **PBKDF2 + SHA3-512** y un esquema de autenticación **HMAC-SHA3-512**, asegurando la máxima resistencia ante computadoras convencionales y cuánticas.
 
