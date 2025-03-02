@@ -1,6 +1,6 @@
 # Crypzy 
 
-Crypzy es una herramienta de cifrado avanzada diseñada para proporcionar **seguridad extrema** frente a ataques clásicos y cuánticos. Utiliza **AES-256 en modo CBC**, junto con **PBKDF2 + SHA3-512** y un esquema de autenticación **HMAC-SHA3-512**, asegurando la máxima resistencia ante computadoras convencionales y cuánticas.
+Crypzy es una herramienta de cifrado avanzada desarrollada en 2023 y perfeccionada en 2025 con IA, diseñada para proporcionar **seguridad extrema** frente a ataques clásicos y cuánticos, tal herramienta, utiliza una combinación de **AES-256 en modo CBC**, junto con **PBKDF2 + SHA3-512** y un esquema de autenticación **HMAC-SHA3-512**, asegurando la máxima resistencia ante computadoras convencionales y cuánticas.
 
 ---
 
