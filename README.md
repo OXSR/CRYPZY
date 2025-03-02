@@ -35,5 +35,7 @@ Ejemplo de salida JSON cifrada:
 }
 ```
 
+Virustotal: https://www.virustotal.com/gui/file-analysis/ZjZkYTFhNDY1ZTBiYTE3NDEyN2RjNjhjYmQzM2IxZjA6MTc0MDkyNTE2MA==
+
 
 **DEV a base de DroidScript JS By OXSR**
