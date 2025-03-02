@@ -1,10 +1,10 @@
-# 🔒 Crypzy: Cifrado Post-Cuántico Seguro  
+# Crypzy: Cifrado Post-Cuántico Seguro  
 
 Crypzy es una herramienta de cifrado avanzada diseñada para proporcionar **seguridad extrema** frente a ataques clásicos y cuánticos. Utiliza **AES-256 en modo CBC**, junto con **PBKDF2 + SHA3-512** y un esquema de autenticación **HMAC-SHA3-512**, asegurando la máxima resistencia ante computadoras convencionales y cuánticas.
 
 ---
 
-## 🚀 Características del cifrado 
+## Características del cifrado 
 
 ✔️ **Cifrado simétrico robusto:** Usa **AES-256 CBC** con IV aleatorio.  
 ✔️ **Derivación de claves segura:** PBKDF2 con **200,000 iteraciones y SHA3-512**.  
@@ -24,7 +24,6 @@ Crypzy es una herramienta de cifrado avanzada diseñada para proporcionar **segu
 - Se genera un **HMAC-SHA3-512** sobre los datos cifrados.  
 - El resultdo se almacena en **JSON**, incluyendo salt, IV, ciphertext y HMAC.
 
-**DEV a base de DroidScript JS By OXSR**
 
 Ejemplo de salida JSON cifrada:
 ```json
@@ -34,3 +33,7 @@ Ejemplo de salida JSON cifrada:
   "ciphertext": "MriqQiSy5FnYvhZE9l9KSQ==",
   "hmac": "f4a2880e574b86095e16faa88b1ffda9fa910b1af545f88b6f66821e85524b55a66e08ba034f2803b076f75855c1de8f47b3624022661d4f17ac3141ec413e98"
 }
+```
+
+
+**DEV a base de DroidScript JS By OXSR**
